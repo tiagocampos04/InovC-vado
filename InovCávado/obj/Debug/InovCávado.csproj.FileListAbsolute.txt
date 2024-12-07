@@ -1,0 +1,95 @@
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\InovCávado.exe.config
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\InovCávado.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\InovCávado.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.Form1.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\MySql.Data.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\Google.Protobuf.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\ZstdNet.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\System.Memory.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\System.Buffers.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\bin\Debug\MySql.Data.xml
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.exe.config
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.CopyComplete
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.Tela_carregamento.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.menu.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.clientes.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_clientes.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_clientes.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.fornecedores.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_fornecedores.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_fornecedor.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.categoria.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.visualizar_produtos.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_produto.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_produto.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_compra.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.dividas_aos_fornecedores.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.stock.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.despesas.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.categoria_despesas.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_despesa.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.actualizar_despesa.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.vendas.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.dividas_clientes.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.visualizar_compras.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.visualizar_vendas.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_despesa.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\InovCávado.exe.config
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\InovCávado.exe
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\InovCávado.pdb
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\Google.Protobuf.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\ZstdNet.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\System.Memory.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\System.Buffers.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\bin\Debug\MySql.Data.xml
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.exe.config
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.actualizar_despesa.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_clientes.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_despesa.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_fornecedor.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.atualizar_produto.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.categoria.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.categoria_despesas.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.clientes.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.despesas.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.dividas_aos_fornecedores.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.dividas_clientes.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.Form1.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.fornecedores.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_clientes.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_compra.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_despesa.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_fornecedores.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.inserir_produto.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.menu.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.stock.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.Tela_carregamento.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.vendas.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.visualizar_compras.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.visualizar_produtos.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.visualizar_vendas.resources
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.csproj.CopyComplete
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.exe
+C:\Users\tiago\OneDrive\Documentos\InovCávado\InovCávado\obj\Debug\InovCávado.pdb
